@@ -1,4 +1,4 @@
-# hello_world
+# rust_server
 
 A simple Rust HTTP server that serves a static HTML file.
 
